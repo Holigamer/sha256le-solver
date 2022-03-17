@@ -1,4 +1,4 @@
-# sha256le_brainforce
+# sha256le-solver
 A simple (and kinda scrappy) algorithm bundle to solve the sha256le wordle game variant by keftcha in more or less 16 steps
 
 ## How do I use this mythological tool of superpower?
